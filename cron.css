@@ -1,0 +1,50 @@
+body{
+    background-color: darkslategray;
+}
+
+.div-principal{
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+    margin-top: 15%;
+    margin-left: 30%;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px beige;
+
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    border-radius: 25px;
+    padding: 5px;
+    width: 80px;
+    font-family:arial;
+    /*Tamanho da font|texto*/
+    font-size: medium;
+    /**/
+    cursor: pointer;
+}
+
+/*button:hover{
+    background-color: blue;
+}*/
+
+.inic{
+    background-color: darkgreen;
+    color: aliceblue;
+}
+
+.paus{
+    background-color: darkgoldenrod;
+    color: aliceblue;
+}
+
+.limp{
+    background-color: darkred;
+    color: aliceblue;
+}
